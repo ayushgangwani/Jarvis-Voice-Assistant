@@ -15,13 +15,13 @@ This is a Python-based voice assistant named **Jarvis**, inspired by Iron Man’
 - Responds using voice (Text-to-Speech)
 
 ## 🚀 How to Run
+1. Download the "requirement.txt" file and "main.py" file
+2. Run this command in terminal
+ 
+   ```
+   pip install -r requirements.txt
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/Jarvis-Voice-Assistant.git
-   cd Jarvis-Voice-Assistant
-2. Install the required libraries:
-  ```bash
-   git clone https://github.com/your-username/Jarvis-Voice-Assistant.git
-   cd Jarvis-Voice-Assistant
+3. Run the "main.py" file.
 
+   ```
+   python main.py
