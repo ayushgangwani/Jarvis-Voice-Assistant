@@ -15,8 +15,8 @@ This is a Python-based voice assistant named **Jarvis**, inspired by Iron Man’
 - Responds using voice (Text-to-Speech)
 
 ## 🚀 How to Run
-1. Download the "requirement.txt" file and "main.py" file
-2. Run this command in terminal
+1. Download the "requirement.txt" , "musicLibrary.py" file and "main.py" file.
+2. Run this command in terminal.
  
    ```
    pip install -r requirements.txt
